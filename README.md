@@ -14,6 +14,9 @@ Hi, I’m Anshu Kumar, an undergraduate student in Instrumentation and Control E
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anshu4408&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=1)
 
+## 🏆 GitHub Highlights
+![](https://github-readme-stats.vercel.app/api?username=Anshu4408&show_icons=true&theme=dark&v=1)
+
 ![](https://streak-stats.demolab.com/?user=Anshu4408&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshu4408&theme=dark&hide_border=false&layout=compact&v=1)
