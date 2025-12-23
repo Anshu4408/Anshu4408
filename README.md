@@ -45,7 +45,7 @@
 ---
 
 ## 🧠 LeetCode Stats
-![](https://leetcard.jacoblin.cool/Anshu4408?theme=dark&font=Karma&ext=contest&v=1)
+![](https://leetcard.jacoblin.cool/Anshu45?theme=dark&font=Karma&ext=contest&v=1)
 
 ---
 
