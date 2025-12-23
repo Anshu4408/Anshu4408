@@ -46,4 +46,8 @@
 
 ---
 
+---
+[![](https://visitcount.itsvg.in/api?id=Anshu4408&icon=5&color=12)](https://visitcount.itsvg.in)
+---
+
 ✨ *Always open to internships, collaborations, and learning opportunities.*
