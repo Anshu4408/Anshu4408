@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I’m Anshu Kumar, an undergraduate student in Instrumentation and Control Engineering at NIT Trichy. I’m passionate about problem-solving, data structures, and software development, with hands-on experience in C++, JavaScript, and full-stack projects. I enjoy building games, web applications, and exploring how technology can solve real-world problems. I’m always eager to learn, collaborate, and take up new technical challenges.
 
+# 🧠 LeetCode Stats
+![](https://leetcard.jacoblin.cool/Anshu45?theme=dark&font=Karma&ext=contest)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshu_30_05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshu3052005@gmail.com) 
