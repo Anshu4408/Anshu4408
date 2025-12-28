@@ -18,7 +18,7 @@
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshu_30_05)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshu3052005@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=orange)](https://leetcode.com/Anshu4408)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=orange)](https://leetcode.com/Anshu45)
 
 ---
 
